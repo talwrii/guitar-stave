@@ -4,7 +4,7 @@
 
 A stave (staff) with the notes of the open strings on a guitar (and bass on it).
 
-![Picture of guitar notes on stave](guitar.pdf)
+![Picture of guitar notes on stave](guitar.png)
 
 ## Motivation
 I learned the guitar (and bass) without really being aware of notes - rather being aware of intervals. I imagine this is not uncommon, though perhaps pepole don't know the intervals. However, I am trying to build up some knowledge of notes and reading music to fit it more with the rest of society and notation they use.
