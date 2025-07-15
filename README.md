@@ -16,6 +16,8 @@ I could not find an image which did precisely what I want - so I am making my ow
 ## Alternatives and prior work
 I get the impression that recognising the note you are playing one a music instrument using an audio interface is a solved problem. There are certain tools which can show you the notes that you are playing on a stave as you play - and allow you to play along with songs. I wanted something freer.
 
+This was created using [lilypond](https://lilypond.org/) the code for this is included.
+
 There are various pictures on the internet but I could not find the one I wanted.
 You could render this yourself with lilypond - or possible in a program like sibelius.
 
