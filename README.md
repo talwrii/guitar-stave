@@ -2,9 +2,9 @@
 **@readwithai** - [X](https://x.com/readwithai) - [blog](https://readwithai.substack.com/) - [machine-aided reading](https://www.reddit.com/r/machineAidedReading/) - [📖](https://readwithai.substack.com/p/what-is-reading-broadly-defined
 )[⚡️](https://readwithai.substack.com/s/technical-miscellany)[🖋️](https://readwithai.substack.com/p/note-taking-with-obsidian-much-of)
 
-A stave with the notes of the open strings on a guitar (and bass on it).
+A stave (staff) with the notes of the open strings on a guitar (and bass on it).
 
-![guitar.pdf]
+![Picture of guitar notes on stave](guitar.pdf)
 
 ## Motivation
 I learned the guitar (and bass) without really being aware of notes - rather being aware of intervals. I imagine this is not uncommon, though perhaps pepole don't know the intervals. However, I am trying to build up some knowledge of notes and reading music to fit it more with the rest of society and notation they use.
